@@ -2,12 +2,12 @@ export const images = {
   count: 82,
   characters: {
     "Luke Skywalker":
-      "https://upload.wikimedia.org/wikipedia/en/9/9b/Luke_Skywalker.png",
+      "https://www.kindpng.com/picc/m/135-1355450_luke-skywalker-star-wars-anakin-skywalker-admiral-ackbar.png",
     "C-3PO": "https://upload.wikimedia.org/wikipedia/en/5/5c/C-3PO_droid.png",
     "R2-D2":
       "https://i0.wp.com/sociedadejedi.com.br/wp-content/uploads/2017/06/kenny-baker-r2d2.jpeg",
     "Darth Vader":
-      "https://files.tecnoblog.net/meiobit/wp-content/uploads/2022/06/darth-vader-001.jpg",
+      "https://modobrincar.rihappy.com.br/wp-content/uploads/2022/10/quem-e-darth-vader-topo.jpg",
     "Leia Organa":
       "http://pm1.narvii.com/6224/b53a7f4e00085d30654f0777764c51eb435111ec_00.jpg",
     "Owen Lars":
@@ -93,8 +93,7 @@ export const images = {
       "https://static.wikia.nocookie.net/starwars/images/a/a4/GasganoHS-SWE.png",
     "Ben Quadinaros":
       "https://static.wikia.nocookie.net/starwars/images/0/02/BenQuadinarosHS-SWE.png",
-    "Mace Windu":
-      "https://static.wikia.nocookie.net/starwars/images/f/fc/Mace_Windu.jpg",
+    "Mace Windu": "https://wallpaperaccess.com/full/2311604.jpg",
     "Ki-Adi-Mundi":
       "https://static.wikia.nocookie.net/starwars/images/6/6d/KiAdiMundi-SWCT.png",
     "Kit Fisto":
@@ -133,7 +132,7 @@ export const images = {
     "Zam Wesell":
       "https://i0.wp.com/sociedadejedi.com.br/wp-content/uploads/2017/09/maxresdefault-1.jpg",
     "Dexter Jettster":
-      "https://static.wikia.nocookie.net/starwars/images/6/6c/DexterHS-SWE.jpg",
+      "https://www.syfy.com/sites/syfy/files/styles/scale_960_no_scale/public/2019/12/dexter1.jpeg",
     "Lama Su": "https://swrpggm.com/wp-content/uploads/2021/04/Lama-Su_FE.png",
     "Taun We":
       "https://static.wikia.nocookie.net/swfanon/images/9/9c/TaunWe.jpg",
@@ -156,6 +155,6 @@ export const images = {
     "Sly Moore":
       "https://lumiere-a.akamaihd.net/v1/images/sly-moore_6af90e66.jpeg",
     "Tion Medon":
-      "https://static.wikia.nocookie.net/starwars/images/4/43/Tion_Medon.jpg",
+      "https://i.pinimg.com/564x/66/1d/40/661d4074a07e5c26820c18a341ea3672.jpg",
   },
 };
