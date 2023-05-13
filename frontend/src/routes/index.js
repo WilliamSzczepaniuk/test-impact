@@ -1,10 +1,13 @@
-import { Route, Routes as ReactRoutes } from "react-router-dom";
-import { Home } from "../pages/home";
-
-export const Routes = () => {
-  return (
-    <ReactRoutes>
-      <Route path="/" element={<Home />} />
-    </ReactRoutes>
-  );
-};
+import { Home } from "../pages/Home/home";
+import { createBrowserRouter } from "react-router-dom";
+import { Presentation } from "../pages/Presentation/presentation";
+export const Router = createBrowserRouter([
+  {
+    path: "/",
+    element: <Home />,
+  },
+  {
+    path: ":id",
+    element: <Presentation />,
+  },
+]);
